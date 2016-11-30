@@ -1,3 +1,4 @@
 Name: Joe Davini
 Project Goal: Master Git
-Favorite TV Show
+Favorite TV Show: 24
+Favorite Quote: "Don't Give Up, Don't Ever Give Up" Jimmy V
